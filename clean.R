@@ -1,3 +1,11 @@
+# Notes: 
+# 
+# - some of the columns have different headings in the source files, which I updated manually
+# 
+# 
+
+
+
 files<-list.files(path = "data\\input",pattern=".csv",full.names = T)
 
 nodes<-""
@@ -19,15 +27,21 @@ all_airports<-unique(do.call(c,nodes))
 # get manually assigned groups
 airport_groups<-read.csv("data//output//airports.csv",sep=",",header=T)
 
-lapply(files,function(x){
+for(x in files){
   # Load data
   airports<-read.csv(x)
   
   # filter columns
-  airports.filter<-airports[,c("apt1_apt_name","apt2_apt_name","total_pax_tp","grp_name")]
+  tryCatch(airports.filter<-airports[,c("apt1_apt_name","apt2_apt_name","total_pax_tp")],
+           error=function(e){
+             print(e);
+             next;
+             })
   
   # generate unique node list with ids
   nodes<-data.frame(name=unique(c(as.character(airports.filter[,1]),as.character(airports.filter[,2]))))
+  
+  nodes$country<-apply(nodes,1,function(x) airport_groups[which(airport_groups[,c("X")] %in% x["name"]),c("X.1")])
   
   edges<-airports.filter
   edges$apt1_id<-apply(airports.filter,1,function(x) which(nodes[,c("name")] %in% x[1]))
@@ -41,12 +55,12 @@ lapply(files,function(x){
   edges$total_pax_tp<-edges$total_pax_tp/10000
   
   # regex year from filename
-  ind<-regexpr("(\\d{4})",files[1])[1]
-  year<-substr(files[1],ind,ind+3)
+  ind<-regexpr("(\\d{4})",x)[1]
+  year<-substr(x,ind,ind+3)
   
   write.table(nodes,paste("data//output//",year,"_nodes.csv"),sep=",")
   write.table(edges,paste("data//output//",year,"_edges.csv"),sep=",")
-})
+}
 
 # Load data
 # airports<-read.csv("data//input//Table_12_2_Dom_Air_Pax_Route_Analysis_2013.csv")

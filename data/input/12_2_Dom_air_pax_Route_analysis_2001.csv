@@ -1,4 +1,4 @@
-rundate,this_period,last_period,airport_group,apt1_apt_name,apt2_apt_name,total_pax_2001,total_pax_scheduled_2001,total_pax_charter_2001,total_pax_2000,total_pax_scheduled_2000,total_pax_charter_2000,total_pax_percent_change
+rundate,this_period,last_period,airport_group,apt1_apt_name,apt2_apt_name,total_pax_tp,total_pax_scheduled_2001,total_pax_charter_2001,total_pax_2000,total_pax_scheduled_2000,total_pax_charter_2000,total_pax_percent_change
 25/04/2002 12:53,2001,2000,London Area Airports,GATWICK,ABERDEEN,235825,235777,48,246009,246009,0,-4.139686108
 25/04/2002 12:53,2001,2000,London Area Airports,GATWICK,BELFAST CITY,240891,240891,0,257079,257079,0,-6.296896935
 25/04/2002 12:53,2001,2000,London Area Airports,GATWICK,BELFAST INTERNATIONAL,0,0,0,47,0,47,
