@@ -1,0 +1,369 @@
+"apt1_apt_name" "apt2_apt_name" "total_pax_tp" "grp_name" "apt1_id" "apt2_id"
+"1" "GATWICK" "ABERDEEN" 173231 "London Area Airports" 0 6
+"2" "GATWICK" "BELFAST CITY (GEORGE BEST)" 406464 "London Area Airports" 0 10
+"3" "GATWICK" "BELFAST INTERNATIONAL" 385696 "London Area Airports" 0 11
+"4" "GATWICK" "BLACKPOOL" 99 "London Area Airports" 0 15
+"5" "GATWICK" "CARDIFF WALES" 41 "London Area Airports" 0 20
+"6" "GATWICK" "CITY OF DERRY (EGLINTON)" 203 "London Area Airports" 0 21
+"7" "GATWICK" "DONCASTER SHEFFIELD" 0 "London Area Airports" 0 22
+"8" "GATWICK" "DURHAM TEES VALLEY" 73 "London Area Airports" 0 24
+"9" "GATWICK" "EAST MIDLANDS INTERNATIONAL" 0 "London Area Airports" 0 25
+"10" "GATWICK" "EDINBURGH" 693686 "London Area Airports" 0 27
+"11" "GATWICK" "GLASGOW" 606263 "London Area Airports" 0 33
+"12" "GATWICK" "GUERNSEY" 345779 "London Area Airports" 0 35
+"13" "GATWICK" "HEATHROW" 0 "London Area Airports" 0 1
+"14" "GATWICK" "HUMBERSIDE" 106 "London Area Airports" 0 37
+"15" "GATWICK" "INVERNESS" 219320 "London Area Airports" 0 38
+"16" "GATWICK" "ISLE OF MAN" 184173 "London Area Airports" 0 39
+"17" "GATWICK" "JERSEY" 537414 "London Area Airports" 0 41
+"18" "GATWICK" "LEEDS BRADFORD" 58 "London Area Airports" 0 44
+"19" "GATWICK" "LIVERPOOL (JOHN LENNON)" 185 "London Area Airports" 0 46
+"20" "GATWICK" "MANCHESTER" 41321 "London Area Airports" 0 47
+"21" "GATWICK" "NEWCASTLE" 81813 "London Area Airports" 0 49
+"22" "GATWICK" "NEWQUAY" 92609 "London Area Airports" 0 50
+"23" "GATWICK" "NORWICH" 80 "London Area Airports" 0 51
+"24" "HEATHROW" "ABERDEEN" 712184 "London Area Airports" 1 6
+"25" "HEATHROW" "BELFAST CITY (GEORGE BEST)" 671941 "London Area Airports" 1 10
+"26" "HEATHROW" "BELFAST INTERNATIONAL" 0 "London Area Airports" 1 11
+"27" "HEATHROW" "DURHAM TEES VALLEY" 45 "London Area Airports" 1 24
+"28" "HEATHROW" "EDINBURGH" 1355929 "London Area Airports" 1 27
+"29" "HEATHROW" "GLASGOW" 869957 "London Area Airports" 1 33
+"30" "HEATHROW" "LEEDS BRADFORD" 118717 "London Area Airports" 1 44
+"31" "HEATHROW" "LIVERPOOL (JOHN LENNON)" 70 "London Area Airports" 1 46
+"32" "HEATHROW" "MANCHESTER" 797263 "London Area Airports" 1 47
+"33" "HEATHROW" "NEWCASTLE" 481307 "London Area Airports" 1 49
+"34" "LONDON CITY" "ABERDEEN" 73150 "London Area Airports" 2 6
+"35" "LONDON CITY" "DUNDEE" 26056 "London Area Airports" 2 23
+"36" "LONDON CITY" "EDINBURGH" 333859 "London Area Airports" 2 27
+"37" "LONDON CITY" "GLASGOW" 175373 "London Area Airports" 2 33
+"38" "LONDON CITY" "ISLE OF MAN" 45149 "London Area Airports" 2 39
+"39" "LONDON CITY" "JERSEY" 33738 "London Area Airports" 2 41
+"40" "LUTON" "ABERDEEN" 82787 "London Area Airports" 3 6
+"41" "LUTON" "BELFAST CITY (GEORGE BEST)" 16 "London Area Airports" 3 10
+"42" "LUTON" "BELFAST INTERNATIONAL" 235528 "London Area Airports" 3 11
+"43" "LUTON" "CARDIFF WALES" 209 "London Area Airports" 3 20
+"44" "LUTON" "DONCASTER SHEFFIELD" 0 "London Area Airports" 3 22
+"45" "LUTON" "DURHAM TEES VALLEY" 119 "London Area Airports" 3 24
+"46" "LUTON" "EDINBURGH" 273474 "London Area Airports" 3 27
+"47" "LUTON" "EXETER" 121 "London Area Airports" 3 28
+"48" "LUTON" "FARNBOROUGH" 1 "London Area Airports" 3 30
+"49" "LUTON" "GLASGOW" 280734 "London Area Airports" 3 33
+"50" "LUTON" "HUMBERSIDE" 71 "London Area Airports" 3 37
+"51" "LUTON" "INVERNESS" 91845 "London Area Airports" 3 38
+"52" "LUTON" "ISLE OF MAN" 9318 "London Area Airports" 3 39
+"53" "LUTON" "JERSEY" 8711 "London Area Airports" 3 41
+"54" "LUTON" "LEEDS BRADFORD" 121 "London Area Airports" 3 44
+"55" "LUTON" "LIVERPOOL (JOHN LENNON)" 115 "London Area Airports" 3 46
+"56" "LUTON" "MANCHESTER" 184 "London Area Airports" 3 47
+"57" "LUTON" "NEWCASTLE" 272 "London Area Airports" 3 49
+"58" "LUTON" "NORWICH" 0 "London Area Airports" 3 51
+"59" "LUTON" "OXFORD (KIDLINGTON)" 23 "London Area Airports" 3 53
+"60" "LUTON" "STANSTED" 115 "London Area Airports" 3 5
+"61" "SOUTHEND" "BELFAST INTERNATIONAL" 85604 "London Area Airports" 4 11
+"62" "SOUTHEND" "EDINBURGH" 39063 "London Area Airports" 4 27
+"63" "SOUTHEND" "JERSEY" 52768 "London Area Airports" 4 41
+"64" "SOUTHEND" "NEWQUAY" 7448 "London Area Airports" 4 50
+"65" "STANSTED" "BELFAST CITY (GEORGE BEST)" 806 "London Area Airports" 5 10
+"66" "STANSTED" "BELFAST INTERNATIONAL" 297076 "London Area Airports" 5 11
+"67" "STANSTED" "BIRMINGHAM" 0 "London Area Airports" 5 14
+"68" "STANSTED" "CARDIFF WALES" 126 "London Area Airports" 5 20
+"69" "STANSTED" "CITY OF DERRY (EGLINTON)" 130532 "London Area Airports" 5 21
+"70" "STANSTED" "EDINBURGH" 326562 "London Area Airports" 5 27
+"71" "STANSTED" "FARNBOROUGH" 0 "London Area Airports" 5 30
+"72" "STANSTED" "GLASGOW" 308733 "London Area Airports" 5 33
+"73" "STANSTED" "GUERNSEY" 24919 "London Area Airports" 5 35
+"74" "STANSTED" "HUMBERSIDE" 99 "London Area Airports" 5 37
+"75" "STANSTED" "INVERNESS" 17 "London Area Airports" 5 38
+"76" "STANSTED" "JERSEY" 3449 "London Area Airports" 5 41
+"77" "STANSTED" "LEEDS BRADFORD" 0 "London Area Airports" 5 44
+"78" "STANSTED" "LIVERPOOL (JOHN LENNON)" 140 "London Area Airports" 5 46
+"79" "STANSTED" "MANCHESTER" 643 "London Area Airports" 5 47
+"80" "STANSTED" "NEWCASTLE" 490 "London Area Airports" 5 49
+"81" "STANSTED" "NEWQUAY" 0 "London Area Airports" 5 50
+"82" "STANSTED" "NORWICH" 68 "London Area Airports" 5 51
+"83" "ABERDEEN" "BELFAST CITY (GEORGE BEST)" 30205 "Other Reporting Airports" 6 10
+"84" "ABERDEEN" "BIRMINGHAM" 96789 "Other Reporting Airports" 6 14
+"85" "ABERDEEN" "BRISTOL" 34915 "Other Reporting Airports" 6 17
+"86" "ABERDEEN" "CARDIFF WALES" 13242 "Other Reporting Airports" 6 20
+"87" "ABERDEEN" "DURHAM TEES VALLEY" 32732 "Other Reporting Airports" 6 24
+"88" "ABERDEEN" "EAST MIDLANDS INTERNATIONAL" 18411 "Other Reporting Airports" 6 25
+"89" "ABERDEEN" "EXETER" 0 "Other Reporting Airports" 6 28
+"90" "ABERDEEN" "FARNBOROUGH" 13 "Other Reporting Airports" 6 30
+"91" "ABERDEEN" "GLASGOW" 132 "Other Reporting Airports" 6 33
+"92" "ABERDEEN" "HUMBERSIDE" 34178 "Other Reporting Airports" 6 37
+"93" "ABERDEEN" "INVERNESS" 151 "Other Reporting Airports" 6 38
+"94" "ABERDEEN" "JERSEY" 2209 "Other Reporting Airports" 6 41
+"95" "ABERDEEN" "KIRKWALL" 48633 "Other Reporting Airports" 6 42
+"96" "ABERDEEN" "LEEDS BRADFORD" 12349 "Other Reporting Airports" 6 44
+"97" "ABERDEEN" "MANCHESTER" 203347 "Other Reporting Airports" 6 47
+"98" "ABERDEEN" "NEWCASTLE" 30759 "Other Reporting Airports" 6 49
+"99" "ABERDEEN" "NORWICH" 63766 "Other Reporting Airports" 6 51
+"100" "ABERDEEN" "SCATSTA" 165736 "Other Reporting Airports" 6 52
+"101" "ABERDEEN" "SOUTHAMPTON" 9501 "Other Reporting Airports" 6 54
+"102" "ABERDEEN" "STORNOWAY" 5476 "Other Reporting Airports" 6 55
+"103" "ABERDEEN" "SUMBURGH" 115283 "Other Reporting Airports" 6 56
+"104" "ABERDEEN" "WICK JOHN O GROATS" 13860 "Other Reporting Airports" 6 57
+"105" "ALDERNEY" "GUERNSEY" 36730 "Other Reporting Airports" 7 35
+"106" "ALDERNEY" "JERSEY" 239 "Other Reporting Airports" 7 41
+"107" "ALDERNEY" "SOUTHAMPTON" 25927 "Other Reporting Airports" 7 54
+"108" "ANGLESEY (VALLEY)" "CARDIFF WALES" 8540 "Other Reporting Airports" 8 20
+"109" "ANGLESEY (VALLEY)" "ISLE OF MAN" 46 "Other Reporting Airports" 8 39
+"110" "BARRA" "BENBECULA" 277 "Other Reporting Airports" 9 12
+"111" "BARRA" "GLASGOW" 9133 "Other Reporting Airports" 9 33
+"112" "BELFAST CITY (GEORGE BEST)" "BIRMINGHAM" 267168 "Other Reporting Airports" 10 14
+"113" "BELFAST CITY (GEORGE BEST)" "BLACKPOOL" 4833 "Other Reporting Airports" 10 15
+"114" "BELFAST CITY (GEORGE BEST)" "BRISTOL" 448 "Other Reporting Airports" 10 17
+"115" "BELFAST CITY (GEORGE BEST)" "CARDIFF WALES" 38389 "Other Reporting Airports" 10 20
+"116" "BELFAST CITY (GEORGE BEST)" "DUNDEE" 0 "Other Reporting Airports" 10 23
+"117" "BELFAST CITY (GEORGE BEST)" "EAST MIDLANDS INTERNATIONAL" 125883 "Other Reporting Airports" 10 25
+"118" "BELFAST CITY (GEORGE BEST)" "EDINBURGH" 128092 "Other Reporting Airports" 10 27
+"119" "BELFAST CITY (GEORGE BEST)" "EXETER" 11998 "Other Reporting Airports" 10 28
+"120" "BELFAST CITY (GEORGE BEST)" "GLASGOW" 119280 "Other Reporting Airports" 10 33
+"121" "BELFAST CITY (GEORGE BEST)" "GLOUCESTERSHIRE" 0 "Other Reporting Airports" 10 34
+"122" "BELFAST CITY (GEORGE BEST)" "INVERNESS" 23253 "Other Reporting Airports" 10 38
+"123" "BELFAST CITY (GEORGE BEST)" "ISLE OF MAN" 22294 "Other Reporting Airports" 10 39
+"124" "BELFAST CITY (GEORGE BEST)" "JERSEY" 1241 "Other Reporting Airports" 10 41
+"125" "BELFAST CITY (GEORGE BEST)" "LEEDS BRADFORD" 130904 "Other Reporting Airports" 10 44
+"126" "BELFAST CITY (GEORGE BEST)" "MANCHESTER" 280173 "Other Reporting Airports" 10 47
+"127" "BELFAST CITY (GEORGE BEST)" "NEWCASTLE" 41700 "Other Reporting Airports" 10 49
+"128" "BELFAST CITY (GEORGE BEST)" "NEWQUAY" 2187 "Other Reporting Airports" 10 50
+"129" "BELFAST CITY (GEORGE BEST)" "SOUTHAMPTON" 85603 "Other Reporting Airports" 10 54
+"130" "BELFAST INTERNATIONAL" "BIRMINGHAM" 158591 "Other Reporting Airports" 11 14
+"131" "BELFAST INTERNATIONAL" "BLACKPOOL" 11849 "Other Reporting Airports" 11 15
+"132" "BELFAST INTERNATIONAL" "BRISTOL" 226217 "Other Reporting Airports" 11 17
+"133" "BELFAST INTERNATIONAL" "CARDIFF WALES" 0 "Other Reporting Airports" 11 20
+"134" "BELFAST INTERNATIONAL" "DONCASTER SHEFFIELD" 94 "Other Reporting Airports" 11 22
+"135" "BELFAST INTERNATIONAL" "EAST MIDLANDS INTERNATIONAL" 421 "Other Reporting Airports" 11 25
+"136" "BELFAST INTERNATIONAL" "EDINBURGH" 244726 "Other Reporting Airports" 11 27
+"137" "BELFAST INTERNATIONAL" "FARNBOROUGH" 0 "Other Reporting Airports" 11 30
+"138" "BELFAST INTERNATIONAL" "GLASGOW" 250844 "Other Reporting Airports" 11 33
+"139" "BELFAST INTERNATIONAL" "JERSEY" 9193 "Other Reporting Airports" 11 41
+"140" "BELFAST INTERNATIONAL" "LEEDS BRADFORD" 22466 "Other Reporting Airports" 11 44
+"141" "BELFAST INTERNATIONAL" "LIVERPOOL (JOHN LENNON)" 413924 "Other Reporting Airports" 11 46
+"142" "BELFAST INTERNATIONAL" "MANCHESTER" 189969 "Other Reporting Airports" 11 47
+"143" "BELFAST INTERNATIONAL" "NEWCASTLE" 192513 "Other Reporting Airports" 11 49
+"144" "BENBECULA" "GLASGOW" 21802 "Other Reporting Airports" 12 33
+"145" "BENBECULA" "INVERNESS" 670 "Other Reporting Airports" 12 38
+"146" "BENBECULA" "STORNOWAY" 7865 "Other Reporting Airports" 12 55
+"147" "BIGGIN HILL" "BLACKPOOL" 72 "Other Reporting Airports" 13 15
+"148" "BIGGIN HILL" "LIVERPOOL (JOHN LENNON)" 80 "Other Reporting Airports" 13 46
+"149" "BIGGIN HILL" "NEWCASTLE" 74 "Other Reporting Airports" 13 49
+"150" "BIRMINGHAM" "CARDIFF WALES" 19 "Other Reporting Airports" 14 20
+"151" "BIRMINGHAM" "CITY OF DERRY (EGLINTON)" 52322 "Other Reporting Airports" 14 21
+"152" "BIRMINGHAM" "DUNDEE" 0 "Other Reporting Airports" 14 23
+"153" "BIRMINGHAM" "EDINBURGH" 284150 "Other Reporting Airports" 14 27
+"154" "BIRMINGHAM" "GLASGOW" 203464 "Other Reporting Airports" 14 33
+"155" "BIRMINGHAM" "GUERNSEY" 34409 "Other Reporting Airports" 14 35
+"156" "BIRMINGHAM" "INVERNESS" 34813 "Other Reporting Airports" 14 38
+"157" "BIRMINGHAM" "ISLE OF MAN" 41676 "Other Reporting Airports" 14 39
+"158" "BIRMINGHAM" "JERSEY" 38685 "Other Reporting Airports" 14 41
+"159" "BIRMINGHAM" "NEWCASTLE" 8015 "Other Reporting Airports" 14 49
+"160" "BIRMINGHAM" "SOUTHAMPTON" 59 "Other Reporting Airports" 14 54
+"161" "BIRMINGHAM" "STORNOWAY" 0 "Other Reporting Airports" 14 55
+"162" "BLACKPOOL" "CARDIFF WALES" 124 "Other Reporting Airports" 15 20
+"163" "BLACKPOOL" "EAST MIDLANDS INTERNATIONAL" 29 "Other Reporting Airports" 15 25
+"164" "BLACKPOOL" "EDINBURGH" 0 "Other Reporting Airports" 15 27
+"165" "BLACKPOOL" "INVERNESS" 0 "Other Reporting Airports" 15 38
+"166" "BLACKPOOL" "ISLE OF MAN" 19536 "Other Reporting Airports" 15 39
+"167" "BLACKPOOL" "JERSEY" 0 "Other Reporting Airports" 15 41
+"168" "BLACKPOOL" "NORWICH" 0 "Other Reporting Airports" 15 51
+"169" "BLACKPOOL" "SOUTH MARSTON" 62 "Other Reporting Airports" 15 58
+"170" "BOURNEMOUTH" "DURHAM TEES VALLEY" 64 "Other Reporting Airports" 16 24
+"171" "BOURNEMOUTH" "EDINBURGH" 50 "Other Reporting Airports" 16 27
+"172" "BOURNEMOUTH" "JERSEY" 155 "Other Reporting Airports" 16 41
+"173" "BOURNEMOUTH" "LEEDS BRADFORD" 0 "Other Reporting Airports" 16 44
+"174" "BOURNEMOUTH" "MANCHESTER" 70 "Other Reporting Airports" 16 47
+"175" "BOURNEMOUTH" "NEWCASTLE" 40 "Other Reporting Airports" 16 49
+"176" "BRISTOL" "CARDIFF WALES" 0 "Other Reporting Airports" 17 20
+"177" "BRISTOL" "EDINBURGH" 305235 "Other Reporting Airports" 17 27
+"178" "BRISTOL" "FILTON" 0 "Other Reporting Airports" 17 31
+"179" "BRISTOL" "GLASGOW" 257445 "Other Reporting Airports" 17 33
+"180" "BRISTOL" "GUERNSEY" 23670 "Other Reporting Airports" 17 35
+"181" "BRISTOL" "HAWARDEN" 8468 "Other Reporting Airports" 17 36
+"182" "BRISTOL" "INVERNESS" 81231 "Other Reporting Airports" 17 38
+"183" "BRISTOL" "ISLE OF MAN" 5179 "Other Reporting Airports" 17 39
+"184" "BRISTOL" "ISLES OF SCILLY (ST.MARYS)" 0 "Other Reporting Airports" 17 40
+"185" "BRISTOL" "JERSEY" 39779 "Other Reporting Airports" 17 41
+"186" "BRISTOL" "LEEDS BRADFORD" 916 "Other Reporting Airports" 17 44
+"187" "BRISTOL" "MANCHESTER" 78 "Other Reporting Airports" 17 47
+"188" "BRISTOL" "NEWCASTLE" 175587 "Other Reporting Airports" 17 49
+"189" "BRISTOL" "SOUTHAMPTON" 0 "Other Reporting Airports" 17 54
+"190" "CAMBRIDGE" "CARDIFF WALES" 73 "Other Reporting Airports" 18 20
+"191" "CAMBRIDGE" "JERSEY" 1131 "Other Reporting Airports" 18 41
+"192" "CAMBRIDGE" "NEWCASTLE" 12 "Other Reporting Airports" 18 49
+"193" "CAMPBELTOWN" "GLASGOW" 9251 "Other Reporting Airports" 19 33
+"194" "CAMPBELTOWN" "ISLAY" 52 "Other Reporting Airports" 19 59
+"195" "CAMPBELTOWN" "PRESTWICK" 62 "Other Reporting Airports" 19 60
+"196" "CARDIFF WALES" "DURHAM TEES VALLEY" 73 "Other Reporting Airports" 20 24
+"197" "CARDIFF WALES" "EAST MIDLANDS INTERNATIONAL" 59 "Other Reporting Airports" 20 25
+"198" "CARDIFF WALES" "EDINBURGH" 76956 "Other Reporting Airports" 20 27
+"199" "CARDIFF WALES" "FARNBOROUGH" 143 "Other Reporting Airports" 20 30
+"200" "CARDIFF WALES" "GLASGOW" 48217 "Other Reporting Airports" 20 33
+"201" "CARDIFF WALES" "HUMBERSIDE" 187 "Other Reporting Airports" 20 37
+"202" "CARDIFF WALES" "ISLE OF MAN" 0 "Other Reporting Airports" 20 39
+"203" "CARDIFF WALES" "JERSEY" 10637 "Other Reporting Airports" 20 41
+"204" "CARDIFF WALES" "LEEDS BRADFORD" 93 "Other Reporting Airports" 20 44
+"205" "CARDIFF WALES" "LIVERPOOL (JOHN LENNON)" 381 "Other Reporting Airports" 20 46
+"206" "CARDIFF WALES" "MANCHESTER" 632 "Other Reporting Airports" 20 47
+"207" "CARDIFF WALES" "NEWCASTLE" 12546 "Other Reporting Airports" 20 49
+"208" "CARDIFF WALES" "NORWICH" 232 "Other Reporting Airports" 20 51
+"209" "CARDIFF WALES" "SOUTHAMPTON" 32 "Other Reporting Airports" 20 54
+"210" "CITY OF DERRY (EGLINTON)" "LIVERPOOL (JOHN LENNON)" 90755 "Other Reporting Airports" 21 46
+"211" "CITY OF DERRY (EGLINTON)" "PRESTWICK" 69454 "Other Reporting Airports" 21 60
+"212" "DONCASTER SHEFFIELD" "FARNBOROUGH" 0 "Other Reporting Airports" 22 30
+"213" "DONCASTER SHEFFIELD" "JERSEY" 3405 "Other Reporting Airports" 22 41
+"214" "DUNDEE" "DURHAM TEES VALLEY" 0 "Other Reporting Airports" 23 24
+"215" "DUNDEE" "EAST MIDLANDS INTERNATIONAL" 0 "Other Reporting Airports" 23 25
+"216" "DUNDEE" "HUMBERSIDE" 0 "Other Reporting Airports" 23 37
+"217" "DUNDEE" "JERSEY" 1674 "Other Reporting Airports" 23 41
+"218" "DUNDEE" "KIRKWALL" 0 "Other Reporting Airports" 23 42
+"219" "DUNDEE" "MANCHESTER" 0 "Other Reporting Airports" 23 47
+"220" "DUNDEE" "NEWCASTLE" 0 "Other Reporting Airports" 23 49
+"221" "DUNDEE" "SOUTHAMPTON" 0 "Other Reporting Airports" 23 54
+"222" "DUNDEE" "SUMBURGH" 0 "Other Reporting Airports" 23 56
+"223" "DURHAM TEES VALLEY" "FARNBOROUGH" 105 "Other Reporting Airports" 24 30
+"224" "DURHAM TEES VALLEY" "JERSEY" 1914 "Other Reporting Airports" 24 41
+"225" "DURHAM TEES VALLEY" "LIVERPOOL (JOHN LENNON)" 63 "Other Reporting Airports" 24 46
+"226" "DURHAM TEES VALLEY" "NEWCASTLE" 140 "Other Reporting Airports" 24 49
+"227" "DURHAM TEES VALLEY" "SOUTHAMPTON" 14 "Other Reporting Airports" 24 54
+"228" "EAST MIDLANDS INTERNATIONAL" "EDINBURGH" 86709 "Other Reporting Airports" 25 27
+"229" "EAST MIDLANDS INTERNATIONAL" "FARNBOROUGH" 36 "Other Reporting Airports" 25 30
+"230" "EAST MIDLANDS INTERNATIONAL" "GLASGOW" 85531 "Other Reporting Airports" 25 33
+"231" "EAST MIDLANDS INTERNATIONAL" "GUERNSEY" 28738 "Other Reporting Airports" 25 35
+"232" "EAST MIDLANDS INTERNATIONAL" "JERSEY" 25998 "Other Reporting Airports" 25 41
+"233" "EAST MIDLANDS INTERNATIONAL" "LEEDS BRADFORD" 0 "Other Reporting Airports" 25 44
+"234" "EAST MIDLANDS INTERNATIONAL" "NEWCASTLE" 0 "Other Reporting Airports" 25 49
+"235" "EAST MIDLANDS INTERNATIONAL" "NEWQUAY" 0 "Other Reporting Airports" 25 50
+"236" "EDAY" "KIRKWALL" 750 "Other Reporting Airports" 26 42
+"237" "EDINBURGH" "EXETER" 36523 "Other Reporting Airports" 27 28
+"238" "EDINBURGH" "FARNBOROUGH" 39 "Other Reporting Airports" 27 30
+"239" "EDINBURGH" "GLASGOW" 0 "Other Reporting Airports" 27 33
+"240" "EDINBURGH" "ISLAY" 0 "Other Reporting Airports" 27 59
+"241" "EDINBURGH" "ISLE OF MAN" 4152 "Other Reporting Airports" 27 39
+"242" "EDINBURGH" "JERSEY" 9187 "Other Reporting Airports" 27 41
+"243" "EDINBURGH" "KIRKWALL" 43497 "Other Reporting Airports" 27 42
+"244" "EDINBURGH" "LEEDS BRADFORD" 0 "Other Reporting Airports" 27 44
+"245" "EDINBURGH" "MANCHESTER" 118516 "Other Reporting Airports" 27 47
+"246" "EDINBURGH" "MANSTON (KENT INT)" 0 "Other Reporting Airports" 27 48
+"247" "EDINBURGH" "NEWQUAY" 4481 "Other Reporting Airports" 27 50
+"248" "EDINBURGH" "NORWICH" 24668 "Other Reporting Airports" 27 51
+"249" "EDINBURGH" "OXFORD (KIDLINGTON)" 4061 "Other Reporting Airports" 27 53
+"250" "EDINBURGH" "SOUTHAMPTON" 207566 "Other Reporting Airports" 27 54
+"251" "EDINBURGH" "STORNOWAY" 19284 "Other Reporting Airports" 27 55
+"252" "EDINBURGH" "SUMBURGH" 39876 "Other Reporting Airports" 27 56
+"253" "EDINBURGH" "WICK JOHN O GROATS" 11362 "Other Reporting Airports" 27 57
+"254" "EXETER" "FARNBOROUGH" 0 "Other Reporting Airports" 28 30
+"255" "EXETER" "GLASGOW" 23771 "Other Reporting Airports" 28 33
+"256" "EXETER" "GUERNSEY" 22150 "Other Reporting Airports" 28 35
+"257" "EXETER" "HAWARDEN" 25 "Other Reporting Airports" 28 36
+"258" "EXETER" "ISLES OF SCILLY (ST.MARYS)" 15097 "Other Reporting Airports" 28 40
+"259" "EXETER" "JERSEY" 33070 "Other Reporting Airports" 28 41
+"260" "EXETER" "LEEDS BRADFORD" 0 "Other Reporting Airports" 28 44
+"261" "EXETER" "MANCHESTER" 84618 "Other Reporting Airports" 28 47
+"262" "EXETER" "NEWCASTLE" 29945 "Other Reporting Airports" 28 49
+"263" "EXETER" "NEWQUAY" 10 "Other Reporting Airports" 28 50
+"264" "EXETER" "NORWICH" 66 "Other Reporting Airports" 28 51
+"265" "EXETER" "SOUTHAMPTON" 42 "Other Reporting Airports" 28 54
+"266" "FAIR ISLE" "LERWICK (TINGWALL)" 2364 "Other Reporting Airports" 29 45
+"267" "FAIR ISLE" "SUMBURGH" 109 "Other Reporting Airports" 29 56
+"268" "FARNBOROUGH" "INVERNESS" 119 "Other Reporting Airports" 30 38
+"269" "FARNBOROUGH" "LEEDS BRADFORD" 0 "Other Reporting Airports" 30 44
+"270" "FARNBOROUGH" "LIVERPOOL (JOHN LENNON)" 299 "Other Reporting Airports" 30 46
+"271" "FARNBOROUGH" "MANCHESTER" 290 "Other Reporting Airports" 30 47
+"272" "FARNBOROUGH" "NEWCASTLE" 449 "Other Reporting Airports" 30 49
+"273" "FARNBOROUGH" "NORWICH" 104 "Other Reporting Airports" 30 51
+"274" "FILTON" "MANCHESTER" 0 "Other Reporting Airports" 31 47
+"275" "FOULA" "LERWICK (TINGWALL)" 1211 "Other Reporting Airports" 32 45
+"276" "GLASGOW" "GUERNSEY" 793 "Other Reporting Airports" 33 35
+"277" "GLASGOW" "INVERNESS" 0 "Other Reporting Airports" 33 38
+"278" "GLASGOW" "ISLAY" 25595 "Other Reporting Airports" 33 59
+"279" "GLASGOW" "ISLE OF MAN" 4011 "Other Reporting Airports" 33 39
+"280" "GLASGOW" "JERSEY" 36403 "Other Reporting Airports" 33 41
+"281" "GLASGOW" "KIRKWALL" 17588 "Other Reporting Airports" 33 42
+"282" "GLASGOW" "LEEDS BRADFORD" 9992 "Other Reporting Airports" 33 44
+"283" "GLASGOW" "MANCHESTER" 52025 "Other Reporting Airports" 33 47
+"284" "GLASGOW" "NEWCASTLE" 29 "Other Reporting Airports" 33 49
+"285" "GLASGOW" "NEWQUAY" 1751 "Other Reporting Airports" 33 50
+"286" "GLASGOW" "NORWICH" 0 "Other Reporting Airports" 33 51
+"287" "GLASGOW" "SOUTHAMPTON" 182565 "Other Reporting Airports" 33 54
+"288" "GLASGOW" "STORNOWAY" 57499 "Other Reporting Airports" 33 55
+"289" "GLASGOW" "SUMBURGH" 20109 "Other Reporting Airports" 33 56
+"290" "GLASGOW" "TIREE" 7555 "Other Reporting Airports" 33 61
+"291" "GLOUCESTERSHIRE" "ISLE OF MAN" 13594 "Other Reporting Airports" 34 39
+"292" "GLOUCESTERSHIRE" "JERSEY" 535 "Other Reporting Airports" 34 41
+"293" "GUERNSEY" "ISLE OF MAN" 0 "Other Reporting Airports" 35 39
+"294" "GUERNSEY" "JERSEY" 138624 "Other Reporting Airports" 35 41
+"295" "GUERNSEY" "MANCHESTER" 66371 "Other Reporting Airports" 35 47
+"296" "GUERNSEY" "NEWCASTLE" 304 "Other Reporting Airports" 35 49
+"297" "GUERNSEY" "NEWQUAY" 0 "Other Reporting Airports" 35 50
+"298" "GUERNSEY" "NORWICH" 1197 "Other Reporting Airports" 35 51
+"299" "GUERNSEY" "SOUTHAMPTON" 134440 "Other Reporting Airports" 35 54
+"300" "HAWARDEN" "MANCHESTER" 7 "Other Reporting Airports" 36 47
+"301" "HAWARDEN" "SOUTHAMPTON" 9 "Other Reporting Airports" 36 54
+"302" "HUMBERSIDE" "ISLE OF MAN" 30 "Other Reporting Airports" 37 39
+"303" "HUMBERSIDE" "JERSEY" 2175 "Other Reporting Airports" 37 41
+"304" "HUMBERSIDE" "LEEDS BRADFORD" 0 "Other Reporting Airports" 37 44
+"305" "HUMBERSIDE" "NORWICH" 864 "Other Reporting Airports" 37 51
+"306" "HUMBERSIDE" "SOUTHAMPTON" 64 "Other Reporting Airports" 37 54
+"307" "INVERNESS" "JERSEY" 1717 "Other Reporting Airports" 38 41
+"308" "INVERNESS" "KIRKWALL" 19204 "Other Reporting Airports" 38 42
+"309" "INVERNESS" "LEEDS BRADFORD" 0 "Other Reporting Airports" 38 44
+"310" "INVERNESS" "MANCHESTER" 55790 "Other Reporting Airports" 38 47
+"311" "INVERNESS" "NEWCASTLE" 15 "Other Reporting Airports" 38 49
+"312" "INVERNESS" "NORWICH" 0 "Other Reporting Airports" 38 51
+"313" "INVERNESS" "SCATSTA" 0 "Other Reporting Airports" 38 52
+"314" "INVERNESS" "SOUTHAMPTON" 0 "Other Reporting Airports" 38 54
+"315" "INVERNESS" "STORNOWAY" 32850 "Other Reporting Airports" 38 55
+"316" "INVERNESS" "SUMBURGH" 3263 "Other Reporting Airports" 38 56
+"317" "ISLE OF MAN" "JERSEY" 174 "Other Reporting Airports" 39 41
+"318" "ISLE OF MAN" "LEEDS BRADFORD" 462 "Other Reporting Airports" 39 44
+"319" "ISLE OF MAN" "LIVERPOOL (JOHN LENNON)" 204817 "Other Reporting Airports" 39 46
+"320" "ISLE OF MAN" "MANCHESTER" 132469 "Other Reporting Airports" 39 47
+"321" "ISLE OF MAN" "NEWCASTLE" 4809 "Other Reporting Airports" 39 49
+"322" "ISLE OF MAN" "NORWICH" 987 "Other Reporting Airports" 39 51
+"323" "ISLE OF MAN" "OXFORD (KIDLINGTON)" 133 "Other Reporting Airports" 39 53
+"324" "ISLE OF MAN" "SOUTHAMPTON" 1932 "Other Reporting Airports" 39 54
+"325" "ISLES OF SCILLY (ST.MARYS)" "NEWQUAY" 22093 "Other Reporting Airports" 40 50
+"326" "ISLES OF SCILLY (ST.MARYS)" "SOUTHAMPTON" 0 "Other Reporting Airports" 40 54
+"327" "JERSEY" "LEEDS BRADFORD" 16104 "Other Reporting Airports" 41 44
+"328" "JERSEY" "LIVERPOOL (JOHN LENNON)" 86442 "Other Reporting Airports" 41 46
+"329" "JERSEY" "MANCHESTER" 51168 "Other Reporting Airports" 41 47
+"330" "JERSEY" "MANSTON (KENT INT)" 0 "Other Reporting Airports" 41 48
+"331" "JERSEY" "NEWCASTLE" 17878 "Other Reporting Airports" 41 49
+"332" "JERSEY" "NORWICH" 2747 "Other Reporting Airports" 41 51
+"333" "JERSEY" "OXFORD (KIDLINGTON)" 92 "Other Reporting Airports" 41 53
+"334" "JERSEY" "SOUTHAMPTON" 160314 "Other Reporting Airports" 41 54
+"335" "KIRKWALL" "NORTH RONALDSAY" 6570 "Other Reporting Airports" 42 62
+"336" "KIRKWALL" "PAPA WESTRAY" 4190 "Other Reporting Airports" 42 63
+"337" "KIRKWALL" "SANDAY" 2921 "Other Reporting Airports" 42 64
+"338" "KIRKWALL" "STRONSAY" 3084 "Other Reporting Airports" 42 65
+"339" "KIRKWALL" "SUMBURGH" 8739 "Other Reporting Airports" 42 56
+"340" "KIRKWALL" "WESTRAY" 3365 "Other Reporting Airports" 42 66
+"341" "LANDS END (ST JUST)" "NEWQUAY" 0 "Other Reporting Airports" 43 50
+"342" "LEEDS BRADFORD" "MANCHESTER" 0 "Other Reporting Airports" 44 47
+"343" "LEEDS BRADFORD" "NEWQUAY" 0 "Other Reporting Airports" 44 50
+"344" "LEEDS BRADFORD" "SOUTH MARSTON" 45 "Other Reporting Airports" 44 58
+"345" "LEEDS BRADFORD" "SOUTHAMPTON" 59650 "Other Reporting Airports" 44 54
+"346" "LERWICK (TINGWALL)" "OUT SKERRIES" 180 "Other Reporting Airports" 45 67
+"347" "LERWICK (TINGWALL)" "PAPA STOUR" 29 "Other Reporting Airports" 45 68
+"348" "LERWICK (TINGWALL)" "SUMBURGH" 0 "Other Reporting Airports" 45 56
+"349" "LIVERPOOL (JOHN LENNON)" "NEWCASTLE" 326 "Other Reporting Airports" 46 49
+"350" "LIVERPOOL (JOHN LENNON)" "NEWQUAY" 5848 "Other Reporting Airports" 46 50
+"351" "LIVERPOOL (JOHN LENNON)" "NORWICH" 220 "Other Reporting Airports" 46 51
+"352" "LIVERPOOL (JOHN LENNON)" "SOUTHAMPTON" 233 "Other Reporting Airports" 46 54
+"353" "MANCHESTER" "NEWCASTLE" 726 "Other Reporting Airports" 47 49
+"354" "MANCHESTER" "NEWQUAY" 32570 "Other Reporting Airports" 47 50
+"355" "MANCHESTER" "NORWICH" 30302 "Other Reporting Airports" 47 51
+"356" "MANCHESTER" "SOUTHAMPTON" 121044 "Other Reporting Airports" 47 54
+"357" "MANCHESTER" "STORNOWAY" 166 "Other Reporting Airports" 47 55
+"358" "MANSTON (KENT INT)" "NEWCASTLE" 243 "Other Reporting Airports" 48 49
+"359" "MANSTON (KENT INT)" "NEWQUAY" 0 "Other Reporting Airports" 48 50
+"360" "NEWCASTLE" "NEWQUAY" 2384 "Other Reporting Airports" 49 50
+"361" "NEWCASTLE" "NORWICH" 298 "Other Reporting Airports" 49 51
+"362" "NEWCASTLE" "SOUTHAMPTON" 91064 "Other Reporting Airports" 49 54
+"363" "NEWCASTLE" "WARTON" 0 "Other Reporting Airports" 49 69
+"364" "NEWQUAY" "NORWICH" 1907 "Other Reporting Airports" 50 51
+"365" "NORWICH" "SOUTHAMPTON" 107 "Other Reporting Airports" 51 54
+"366" "NORWICH" "WARTON" 6 "Other Reporting Airports" 51 69
+"367" "SCATSTA" "TURWESTON" 0 "Other Reporting Airports" 52 70
+"368" "SCATSTA" "WOODVALE" 0 "Other Reporting Airports" 52 71
