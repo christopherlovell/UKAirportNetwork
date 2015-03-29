@@ -19,8 +19,9 @@ shinyUI(fluidPage(
   sidebarLayout(
     sidebarPanel(
       sliderInput('slider', label = 'Choose node opacity',
-                  min = 0, max = 1, step = 0.01, value = 0.5
+                  min = 0, max = 1, step = 0.01, value = 0.8
       )
+      ,selectInput('year',label="Choose year: ",choices = years)
     ),
     
     # Show network graph
