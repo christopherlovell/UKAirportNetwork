@@ -40,6 +40,8 @@ for(x in files){
              next;
              })
   
+  airports.filter<-airports.filter[airports.filter$total_pax_tp>0,]
+  
   # generate unique node list with ids
   nodes<-data.frame(name=unique(c(as.character(airports.filter[,1]),as.character(airports.filter[,2]))))
   

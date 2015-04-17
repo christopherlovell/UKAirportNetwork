@@ -6,10 +6,18 @@ shinyUI(navbarPage(
   # Application title
   'UK Domestic Airport Traffic: Network Analysis |'
 #   
-  ,header=p(br(),'The following is an interactive analysis of UK domestic airport
-            traffic data, obtained from the',
-            a(href='https://www.caa.co.uk/default.aspx?catid=80&pagetype=88&pageid=1&sglid=1','Civil Aviation Authority website'),
-            '. Years 1997-2000 were not available as of March 2015.',br(),br())
+  ,header=p(br()
+            ,'The following is an interactive analysis of UK domestic airport traffic data, obtained from the'
+            ,a(href='https://www.caa.co.uk/default.aspx?catid=80&pagetype=88&pageid=3&sglid=3','Civil Aviation Authority website')
+            ,'. Years 1997-2000 were not available as of March 2015.'
+            ,br()
+            ,'All code used to generate the app is available'
+            ,a(href="https://github.com/polyphant1/UKAirportNetwork","here")
+            ,'. See my '
+            ,a(href='http://polyphant.com/blog','blog')
+            ,' for other data related work and analysis.'
+            ,br()
+            ,br())
 
   ,tabPanel("Visualisation",
     sidebarLayout(
@@ -20,14 +28,22 @@ shinyUI(navbarPage(
         ,br()
         ,'Visualisations generated using the '
         ,a(href = 'http://christophergandrud.github.io/networkD3/', 'networkD3')
-        ,'package. Hover over nodes for airport names. Node colours represent country, shown below.'
+        ,'package. Nodes represent airports (hover for names), edges represent 
+        connections between these airports, where the number of passengers is
+        represented by the thickness of the line.
+        Node colours show country, legend below.'
         ,br()
         ,br()
         ,tags$div(HTML("<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"200\" height=\"30\"><circle cx=\"15\" cy=\"15\" r=\"15\" fill=\"#1f77b4\" /><text x=\"35\" y=\"20\">England</text></svg>"))
         ,tags$div(HTML("<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"200\" height=\"30\"><circle cx=\"15\" cy=\"15\" r=\"15\" fill=\"#ff7f0e\" /><text x=\"35\" y=\"20\">Scotland</text></svg>"))
         ,tags$div(HTML("<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"200\" height=\"30\"><circle cx=\"15\" cy=\"15\" r=\"15\" fill=\"#2ca02c\" /><text x=\"35\" y=\"20\">Channel Islands</text></svg>"))
-        ,tags$div(HTML("<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"200\" height=\"30\"><circle cx=\"15\" cy=\"15\" r=\"15\" fill=\"#d62728\" /><text x=\"35\" y=\"20\">Wales</text></svg>"))
-        ,tags$div(HTML("<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"200\" height=\"30\"><circle cx=\"15\" cy=\"15\" r=\"15\" fill=\"#9467bd\" /><text x=\"35\" y=\"20\">Northern Ireland</text></svg>"))
+        ,tags$div(HTML("<div style=\"float:left\">
+                          <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"30\">
+                            <circle cx=\"15\" cy=\"15\" r=\"15\" fill=\"#d62728\" />
+                            <circle cx=\"30\" cy=\"15\" r=\"15\" fill=\"#9467bd\" />
+                            <text x=\"50\" y=\"20\">Wales \\ Northern Ireland</text>
+                            </svg>
+                        </div>"))
         ,tags$div(HTML("<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"200\" height=\"30\"><circle cx=\"15\" cy=\"15\" r=\"15\" fill=\"#8c564b\" /><text x=\"35\" y=\"20\">Isle of Man</text></svg>"))
       ),
       mainPanel(
